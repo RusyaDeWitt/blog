@@ -11,7 +11,7 @@ function Cards(){
           <Card className="Card">
             <Card.Body>
               <Card.Title>TCI</Card.Title>
-              <Card.Subtitle className="mb-2 text-muted">School Project</Card.Subtitle>
+              <Card.Subtitle className="mb-2 text-muted">Project</Card.Subtitle>
               <Card.Text>
                 Teacher Index Capacity - webapp which helps teachers to analys their skills.
               </Card.Text>

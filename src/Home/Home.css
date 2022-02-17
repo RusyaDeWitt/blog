@@ -4,6 +4,51 @@
   margin-top: 100px;
 }
 
+.about {
+  color: white;
+  margin-top: 150px;
+  margin-bottom: 400px;
+}
+.my-name{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 150px;
+}
 h1 {
   color: white;
+}
+
+#tmp {
+  color: white;
+}
+
+.lists {
+  width: 50%;
+  float: left;
+}
+
+.footer {
+  padding: 50px;
+  clear: both;
+  position: relative;
+  height: 200px;
+  margin-top: -200px;
+  background-color: #343a40;
+  text-align: center;
+  margin-top: 400px;
+  color: white;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .my-name {
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 50px
+    }
 }

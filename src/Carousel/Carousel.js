@@ -9,7 +9,7 @@ class Carousels extends React.Component{
                 <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="https://kashayev.herokuapp.com/1.jpg"
+                    src="./1.jpg"
                     alt="First slide"
                 />
                 </Carousel.Item>
@@ -17,14 +17,14 @@ class Carousels extends React.Component{
                 <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="https://kashayev.herokuapp.com/2.jpg"
+                    src="./2.jpg"
                     alt="Third slide"
                 />
                 </Carousel.Item>
                 <Carousel.Item>
                 <img
                     className="d-block w-100"
-                    src="https://kashayev.herokuapp.com/4.jpg"
+                    src="./3.jpg"
                     alt="Third slide"
                 />
                 </Carousel.Item>
