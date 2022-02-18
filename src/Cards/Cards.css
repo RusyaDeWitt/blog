@@ -1,4 +1,18 @@
 .Card {
   width: auto;
   margin: 40px;
+  
+}
+
+.Card:hover{
+  transform: scale(1.2);
+}
+
+@media and screen only (max-width: 600px) {
+    .Card {
+      width: 20%;
+    }
+    .Card:hover {
+      transform: none;
+    }
 }
